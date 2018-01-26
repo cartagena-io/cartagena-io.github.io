@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Sobre cartagena.io
 
-You can use the [editor on GitHub](https://github.com/cartagena-io/cartagena-io.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+El sitio [cartagena.io](https://cartagena.io) Está dedicado al desarrollo de una comunidad de aficionados a la Data Science en Cartagena.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+En un primer momento contamos con una página de **meetup** ([Data Science Cartagena](https://www.meetup.com/es-ES/Data-Science-Cartagena)) que nos permitirá organizar encuentros e ir estableciendo esa comunidad.
 
-### Markdown
+![Meetup Group](/meetup-captura-github.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Trayectoria personal
 
-```markdown
-Syntax highlighted code block
+- [x] Formación en lenguajes de programación orientados al tratamiento de datos
+- [x] Crear la página Meetup
+- [x] Organizar el primer Meetup
+- [ ] Formación en localización y uso de fuentes de datos
+- [ ] API
+- [ ] ...
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Contacto
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cartagena-io/cartagena-io.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+La principal forma de contacto es a través del [grupo de Meetup](https://www.meetup.com/es-ES/Data-Science-Cartagena) y asistiendo a nuestros encuentros.
+También está disponible el email: <info@cartagena.io>
+¡Salud!
